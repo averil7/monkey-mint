@@ -1,19 +1,32 @@
 {
-    "name":"My Project",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna eu aliquet ultricies, urna elit aliquam nunc, quis aliquet nunc nisl quis nisl.",
+    "name":"Monyet Lucuk",
+    "description":"Test a Mint",
     "website":"",
-    "twitter":"",
+    "twitter":"https://twitter.com/YukiAim",
     "discord":"",
-    "rpc":"",
+    "rpc":"https://rpc.atlantic-2.seinetwork.io/",
     "network":"atlantic-2", 
-    "collection_address":"", 
+    "collection_address":"sei1jv7nvw7jexyd3wpxmmsnacmad2rsdnnj4lucpl8kv0au0wqpe0nq8jljfj", 
     "nft_name_type": "default",
     "groups":[
         {
-            "name":"whitelist",
+            "name":"Treasure Team",
             "allowlist":[
-                "sei14v72v7hgzuvgck6v6jsgjacxnt34gj06qnx53d",
-                "sei1t22vwusjlxg4vp7gttsx7n2y9u4k0vv9lpk2ge"
+                "sei1p4tc0kzxfepn4j80h4sh8fjajysdrq0h2p7nrg"
+            ] 
+        },
+        {
+            "name":"MonkeyOG",
+            "allowlist":[
+                "sei14kak04gl66fa5czza0v9l7vq8ypxl09sxg8rvv",
+                "sei1s5ef3xsk5g08k2za7u4ffqn0pt5a0zas4t0w4y"
+            ] 
+        },
+        {
+            "name":"MonkeyWL",
+            "allowlist":[
+                "sei1sp4y5f29qn9pa796uerwh0eg06p39amky666z0",
+                "sei1795nduqhdqzf6dunsgtnc62g7jv2hk2tdh3g8k"
             ] 
         },
         {
