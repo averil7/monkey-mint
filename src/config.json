@@ -19,14 +19,16 @@
             "name":"MonkeyOG",
             "allowlist":[
                 "sei14kak04gl66fa5czza0v9l7vq8ypxl09sxg8rvv",
-                "sei1s5ef3xsk5g08k2za7u4ffqn0pt5a0zas4t0w4y"
+                "sei1s5ef3xsk5g08k2za7u4ffqn0pt5a0zas4t0w4y",
+                "sei12xgmrq6tg9jpvn9tgly3adsj4d82lw8enxlfdw"
             ] 
         },
         {
             "name":"MonkeyWL",
             "allowlist":[
                 "sei1sp4y5f29qn9pa796uerwh0eg06p39amky666z0",
-                "sei1795nduqhdqzf6dunsgtnc62g7jv2hk2tdh3g8k"
+                "sei1795nduqhdqzf6dunsgtnc62g7jv2hk2tdh3g8k",
+                "sei1gnlv0zmz50sac5nwfuamuhkxanuztqcdymj2jt"
             ] 
         },
         {
